@@ -27,15 +27,15 @@ body {
   }
   legend
   { 
-      font-family:Lucida Calligraphy;
-      color:rgb(52, 100, 204);
+      font-family:arial black;
+      color:pink;
   }
   label
 { 
-font-family:Lucida Calligraphy;
+font-family:arial black;
 font-weight:bold;
 font-size:120%;
-color:rgb(67, 69, 233);
+color:pink;
 }
 #main-image
 {
